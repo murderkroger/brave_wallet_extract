@@ -1,0 +1,9 @@
+{
+  "name": "brave_to_metamask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eth-hd-keyring": "github:brave/eth-hd-keyring"
+  }
+}
